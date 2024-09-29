@@ -1,0 +1,3 @@
+bedfile	plugins/SlopBED/example/A.bed
+genome	plugins/SlopBED/example/human.hg19.genome
+bases	5

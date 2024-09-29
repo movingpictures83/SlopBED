@@ -1,0 +1,2 @@
+Prefix plugins/SlopBED/example/
+Plugin SlopBED inputfile parameters.txt outputfile slop.txt
